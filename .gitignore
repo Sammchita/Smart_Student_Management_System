@@ -1,0 +1,15 @@
+# Compiled files
+*.class
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# MySQL connector (optional)
+lib/mysql-connector-j-*.jar
