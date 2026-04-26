@@ -1,4 +1,5 @@
 package dao;
+
 import db.DBConnection;
 import model.Student;
 
@@ -6,8 +7,6 @@ import java.sql.*;
 import java.util.ArrayList;
 
 public class StudentDAO {
-
-    
 
     public void addStudent(Student student) {
         try {
